@@ -273,7 +273,8 @@ uas_model.ipynb
 
 # 👨‍💻 Penyusun
 
-**Agni Kirani**
+**Agni Kirani - 2406104**
+**Julfa Nurhakiki - 2406096**
 
 Ujian Akhir Semester
 
@@ -281,7 +282,7 @@ Mata Kuliah Kecerdasan Buatan
 
 Program Studi Teknik Informatika
 
-Universitas __________
+Institut Teknologi Garut
 
 2026
 
